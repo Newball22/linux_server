@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0075fd1-dd47-4a83-a12c-3bdda3a4dbae" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/.." />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showToolbar" value="false" />
+  </component>
+  <component name="ProjectId" id="1fzfmzwxKWn3PVRk9AoPjAOgPK3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="ToolWindowProblems.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.全局.GOPATH.is.expanded" value="true" />
+    <property name="configurable.模块.GOPATH.is.expanded" value="true" />
+    <property name="configurable.项目.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.cn" />
+      </map>
+    </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="427" y="292" key="#Notifications" timestamp="1597247144832">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="427" y="292" key="#Notifications/0.23.1440.877@0.23.1440.877" timestamp="1597247144832" />
+    <state x="557" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597563794632">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="557" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1597563794632" />
+    <state x="526" y="175" key="#com.intellij.ide.util.MemberChooser" timestamp="1597647007476">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="526" y="175" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1597647007476" />
+    <state x="307" y="36" key="CommitChangelistDialog2" timestamp="1597648547110">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="307" y="36" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1597648547110" />
+    <state x="144" y="100" key="DiffContextDialog" timestamp="1597648502443">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="144" y="100" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1597648502443" />
+    <state x="229" y="100" key="SettingsEditor" timestamp="1597247153389">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="229" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1597247153389" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1597648328335">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1597648328335" />
+    <state x="517" y="202" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1597648542786">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="517" y="202" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.23.1440.877@0.23.1440.877" timestamp="1597648542786" />
+  </component>
+</project>
